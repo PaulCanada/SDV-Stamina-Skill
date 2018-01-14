@@ -1,0 +1,10 @@
+{
+  "Name": "Stamina Skill Mod",
+  "Author": "Paul Canada",
+  "Version": "0.0.0",
+  "Description": "This mod adds a stamina skill for the player, with associated perks and stamina upgrades.",
+  "UniqueID": "paulcanada.staminaskillmod",
+  "EntryDll": "StaminaSkill.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": [] // "GitHub:PaulCanada/SDV-Stamina-Skill" ]
+}
